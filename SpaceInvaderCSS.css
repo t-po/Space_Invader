@@ -1,0 +1,12 @@
+body{
+	background-image: url('SIBackGround.jpg'); 
+	overflow: hidden;
+	background-size: cover;
+}
+
+#shipIm{
+	filter:invert(1);
+}
+#mobIm{
+	filter:invert(1);
+}
